@@ -1,0 +1,7 @@
+.card{
+    background-color: hsla(53, 9%, 83%, 0.75);
+    display :flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
